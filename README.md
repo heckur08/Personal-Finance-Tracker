@@ -37,7 +37,7 @@ A simple and interactive **Expense Tracker** built with **React** that helps use
 4. Run the development server
    ```bash
    npm start
-Open in browser → http://localhost:3000
+5. Open in browser → http://localhost:3000
 
 ## Usage
 - Enter an expense (title, amount, date, category).  
