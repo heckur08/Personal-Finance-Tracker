@@ -25,19 +25,18 @@ A simple and interactive **Expense Tracker** built with **React** that helps use
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/React-Expense-Tracker-App.git
+   
 2. Navigate to the project folder
    ```bash
-  cd React-Expense-Tracker-App
-
+   cd React-Expense-Tracker-App
 
 3. Install dependencies
    ```bash
-  npm install
-
+   npm install
 
 4. Run the development server
    ```bash
-  npm start
+   npm start
 Open in browser → http://localhost:3000
 
 ## Usage
