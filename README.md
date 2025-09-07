@@ -1,7 +1,7 @@
 # Smart Expense Tracker
 
 A simple and interactive **Expense Tracker** built with **React** that helps users record and manage daily expenses with visual insights.
-
+Check out the running app here: [Smart Expense Tracker]([https://your-deployed-app-link.com](https://expense-tracker-react-ts-app.netlify.app))
 ---
 
 ## Features
